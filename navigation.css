@@ -1,0 +1,18 @@
+*{
+			margin: 0%;
+}
+.navigation{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: green;
+}
+.navigation a{
+	color: yellow;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 2%;
+}
+.navigation a:hover{
+	background-color: yellow;
+	color: black
+}
